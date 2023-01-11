@@ -1,5 +1,5 @@
 {
-  "name": "@michaelbruns1/component-library",
+  "name": "@michaelbruns1/react-component-library",
   "version": "0.0.1",
   "description": "A react component library",
   "scripts": {
@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelbruns1/component-library.git"
+    "url": "git+https://github.com/michaelbruns1/react-component-library.git"
   },
   "keywords": [],
   "author": "Michael Bruns",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelbruns1/component-library/issues"
+    "url": "https://github.com/michaelbruns1/react-component-library/issues"
   },
-  "homepage": "https://github.com/michaelbruns1/component-library#readme",
+  "homepage": "https://github.com/michaelbruns1/react-component-library#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",
